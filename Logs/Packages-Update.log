@@ -44,3 +44,17 @@ The following packages were updated:
   com.unity.collab-proxy from version 1.13.5 to 1.17.2
   com.unity.timeline from version 1.6.2 to 1.7.1
   com.unity.visualscripting from version 1.7.6 to 1.7.8
+
+=== Fri Nov 10 11:18:37 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.sprite@1.0.0
+  com.unity.cinemachine@2.8.4
+  com.unity.connect.share@4.2.3
+  com.unity.learn.iet-framework@2.1.2
+  com.unity.lego.materials@3.0.0
+  com.unity.lego.modelimporter@8.0.1
+  com.unity.settings-manager@1.0.3
